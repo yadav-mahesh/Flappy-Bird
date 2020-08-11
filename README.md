@@ -1,14 +1,14 @@
 # Flappy-Bird
 Automation of Flappy bird game using Reinforcement Learning
 
-![](img/base.png)
+![](imgs/base.png)
 
-![](img/bg.png)
+![](imgs/bg.png)
 
-![](img/bird1.png)
+![](imgs/bird1.png)
 
-![](img/bird2.png)
+![](imgs/bird2.png)
 
-![](img/bird3.png)
+![](imgs/bird3.png)
 
-![](img/pipe.png)
+![](imgs/pipe.png)
